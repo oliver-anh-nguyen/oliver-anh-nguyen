@@ -6,7 +6,7 @@
 💌 I’m stamp collector, 🪙 coin collector <br/>
 ⚽️ I'm loving and playing soccer
 
-![](https://komarev.com/ghpvc/?username=mthuong&color=green) [![oliver-nguyen's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10804130)](https://stackoverflow.com/users/10804130/oliver-nguyen)
+![](https://komarev.com/ghpvc/?username=oliver-nguyen&color=green) [![oliver-nguyen's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10804130)](https://stackoverflow.com/users/10804130/oliver-nguyen)
 
 **Front-end**
 
