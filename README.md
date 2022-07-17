@@ -1,4 +1,4 @@
-### Hi there, I'm [Oliver Nguyen](https://github.com/dereknguyen269) 👋
+### Hi there, I'm [Oliver Nguyen](https://github.com/oliver-anh-nguyen) 👋
 
 🪪 I’m studying master Computer Science and living at Fairfield, Iowa, USA 🇺🇸. <br/>
 🏠 I’m from Ho Chi Minh City, Vietnam 🇻🇳. <br/>
