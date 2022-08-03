@@ -2,7 +2,7 @@
 
 🪪 I’m studying master Computer Science and living at Fairfield, Iowa, USA 🇺🇸. <br/>
 🏠 I’m from Ho Chi Minh City, Vietnam 🇻🇳. <br/>
-👨‍💻 I’m currently working as a Mobile Developer with iOS (basic: Flutter and Android)<br/>
+👨‍💻 I’m a Senior Software Engineer - iOS Developer<br/>
 💌 I’m stamp collector, 🪙 coin collector <br/>
 ⚽️ I'm loving and playing soccer
 
