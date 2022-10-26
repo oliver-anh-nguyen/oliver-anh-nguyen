@@ -19,6 +19,8 @@
 
 **Mobile**
 
+<code><img height="30" src="./icons/icon_ios.png"></code>
+<code><img height="30" src="./icons/icon_android.png"></code>
 <code><img height="30" src="./icons/icon_flutter.png"></code>
 
 **Web**
@@ -34,6 +36,8 @@
 **CI/CD**
 
 <code><img height="30" src="./icons/icon_ci.png"></code>
+<code><img height="30" src="./icons/icon_fastlane.png"></code>
+<code><img height="30" src="./icons/icon_github_actions.png"></code>
 
 **Databases**
 
