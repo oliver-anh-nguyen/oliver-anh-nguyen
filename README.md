@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&duration=5000&pause=1000&color=%36BCF7FF&center=true&width=280&height=40">
 </p>
 
-🪪 I’m studying master Computer Science and living at Fairfield, Iowa, USA 🇺🇸. <br/>
+🪪 I’m studying master Computer Science and living at Coppell, Texas, USA 🇺🇸. <br/>
 🏠 I’m from Ho Chi Minh City, Vietnam 🇻🇳. <br/>
 💌 I’m stamp collector and coin collector 🪙<br/>
 ⚽️ I'm big fan of soccer
@@ -70,4 +70,3 @@
 
 [![Oliver Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=oliver-anh-nguyen&show_icons=true&theme=merko)](https://github.com/oliver-anh-nguyen)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-anh-nguyen&layout=compact&theme=merko)](https://github.com/oliver-anh-nguyen)
- <a href="https://leetcode.com/olivernguyen"><img width="48%" src="https://leetcode.card.workers.dev/olivernguyen?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
