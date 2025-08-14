@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&duration=5000&pause=1000&color=%36BCF7FF&center=true&width=280&height=40">
 </p>
 
-🪪 I’m studying master Computer Science and living at Coppell, Texas, USA 🇺🇸. <br/>
+🪪 I’m a Senior iOS Enginner and living at Coppell, Texas, USA 🇺🇸. <br/>
 🏠 I’m from Ho Chi Minh City, Vietnam 🇻🇳. <br/>
 💌 I’m stamp collector and coin collector 🪙<br/>
 ⚽️ I'm big fan of soccer
