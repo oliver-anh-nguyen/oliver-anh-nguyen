@@ -70,3 +70,4 @@
 
 [![Oliver Nguyen's github stats](https://github-readme-stats.vercel.app/api?username=oliver-anh-nguyen&show_icons=true&theme=merko)](https://github.com/oliver-anh-nguyen)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliver-anh-nguyen&layout=compact&theme=merko)](https://github.com/oliver-anh-nguyen)
+ <a href="https://leetcode.com/olivernguyen"><img width="48%" src="https://leetcode.card.workers.dev/olivernguyen?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
