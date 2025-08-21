@@ -9,8 +9,8 @@
 
 🪪 I’m a Senior iOS Engineer and living at Coppell, Texas, USA 🇺🇸. <br/>
 🏠 I’m from Ho Chi Minh City, Vietnam 🇻🇳. <br/>
-💌 I’m stamp collector and coin collector 🪙<br/>
-⚽️ I'm big fan of soccer
+💌 I’m stamp collector and coin collector. 🪙<br/>
+⚽️ I'm big fan of soccer. ⚽️
 
 ![](https://komarev.com/ghpvc/?username=oliver-nguyen&color=green) [![oliver-nguyen's StackOverflow](https://stackoverflow-badge.vercel.app/?userID=10804130)](https://stackoverflow.com/users/10804130/oliver-nguyen)
 
